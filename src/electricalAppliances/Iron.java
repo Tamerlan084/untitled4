@@ -1,4 +1,5 @@
 package electricalAppliances;
 
-public class Iron {
+public class Iron extends ElectricalAppliance {
+
 }

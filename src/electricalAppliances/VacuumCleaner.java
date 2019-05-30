@@ -1,4 +1,4 @@
 package electricalAppliances;
 
-public class VacuumCleaner {
+public class VacuumCleaner extends ElectricalAppliance {
 }

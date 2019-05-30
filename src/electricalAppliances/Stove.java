@@ -1,4 +1,4 @@
 package electricalAppliances;
 
-public class Stove {
+public class Stove extends ElectricalAppliance {
 }
