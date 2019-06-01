@@ -1,4 +1,4 @@
-package electricalAppliances;
+package kz.zhabassov.project.electricalAppliances.entity;
 
 public abstract class ElectricalAppliance {
 

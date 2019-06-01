@@ -1,4 +1,10 @@
-package electricalAppliances;
+package kz.zhabassov.project.electricalAppliances.main;
+
+import kz.zhabassov.project.electricalAppliances.Actions.ActionsInHome;
+import kz.zhabassov.project.electricalAppliances.Home.Home;
+import kz.zhabassov.project.electricalAppliances.entity.Iron;
+import kz.zhabassov.project.electricalAppliances.entity.Stove;
+import kz.zhabassov.project.electricalAppliances.entity.VacuumCleaner;
 
 public class Main {
     public static void main(String[] args) {
